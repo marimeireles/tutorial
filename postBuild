@@ -1,0 +1,1 @@
+ipython kernel install --name widgets-tutorial --display-name widgets-tutorial --sys-prefix
